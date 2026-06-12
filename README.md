@@ -64,13 +64,13 @@ The full marketplace functionality is still being planned and may include:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/KdanTechnies/Sarkin-Mota)
 ```
 
 ### Move into the Project Directory
 
 ```bash
-cd sarkin-mota
+cd Sarkin-Mota
 ```
 
 ### Install Dependencies
